@@ -9,7 +9,7 @@ public class AppGame {
             @Override
             public void run() {
                 //instanciamos el objeto
-                PiedraPapelTijeraGUI piedraPapelTijeraGUI = new PiedraPapelTijeraGUI();
+                piedra_papel_tijera.PiedraPapelTijeraGUI piedraPapelTijeraGUI = new PiedraPapelTijeraGUI();
 
                 //mostrar la pantalla
                 piedraPapelTijeraGUI.setVisible(true);
