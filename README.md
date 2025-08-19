@@ -3,10 +3,12 @@ Juego en Java del piedra, papel o tijera.
 Con interfaz grafica.
 Donde use Jframe y Jlabel
 
-# Capturas de la interfaz
-![Muestra del score en juego](./score.jpg)
-![El menu inicial del juego](./menuInicial.jpg)
-![menuResultado](./menuResultado.jpg)
+<h2>Capturas de la interfaz</h2>
+<p align="center">
+  <img src="./Score.jpg" alt="Muestra del score en juego" width="250"/>
+  <img src="./menuInicial.jpg" alt="El menú inicial del juego" width="250"/>
+  <img src="./menuResultado.jpg" alt="Menú de resultado" width="250"/>
+</p>
 
 
 
